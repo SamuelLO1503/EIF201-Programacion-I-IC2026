@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Lab2_S03_Samuel_Lezcano_Olaya/Lab2_S03_Samuel_Lezcano_Olaya.vcxproj" />
+  <Project Path="Lab2_S03_Samuel_Lezcano_Olaya/Lab2_S03_Samuel_Lezcano_Olaya.vcxproj" Id="bacb6b7a-73c0-4cf6-ad27-6e09960d0d11" />
+  <Project Path="Paquetes/Paquetes.vcxproj" Id="eeb8aa46-ab48-4395-b881-0f8c0d068c76" />
 </Solution>
