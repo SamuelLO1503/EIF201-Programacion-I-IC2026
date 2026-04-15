@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Sistema_de_Colonos/Sistema_de_Colonos.vcxproj" />
+  <Project Path="Sistema_de_Colonos/Sistema_de_Colonos.vcxproj" Id="4ec5015a-e6dd-424e-89a4-bee4d5012f22" />
 </Solution>
