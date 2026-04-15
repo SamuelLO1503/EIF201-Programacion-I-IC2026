@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Colonia.cpp" />
     <ClCompile Include="Colono.cpp" />
     <ClCompile Include="Domo.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Colonia.h" />
     <ClInclude Include="Colono.h" />
     <ClInclude Include="Domo.h" />
   </ItemGroup>
